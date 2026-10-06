@@ -24,5 +24,5 @@ h1{font-size:clamp(34px,9vw,60px);line-height:1.1;font-weight:900;letter-spacing
 </svg>
 <div class="badge">FALLBACK</div>
 <h1>Gua mara sara, baba .</h1>
-<div class="credit">ক্রেডিট টা অন্ততঃ দেও <a href="https://t.me/ftgaming2" target="_blank" rel="noopener noreferrer">(Arafat)</a></div>
+<div class="credit">ক্রেডিট টা অন্ততঃ দিও <a href="https://t.me/ftgaming2" target="_blank" rel="noopener noreferrer">(Arafat)</a></div>
 </main>`})()
